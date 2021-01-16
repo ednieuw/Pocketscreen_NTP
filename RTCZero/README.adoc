@@ -1,4 +1,4 @@
-= RTC Library for Arduino =
+= RTC Library for Pocketscreen  =
 
 The RTC library enables an Arduino Zero or MKR1000 board to take control of the internal RTC.
 
