@@ -1,3 +1,5 @@
+Optimised Time library to use with RTCzero
+
 # Arduino Time Library
 
 Time is a library that provides timekeeping functionality for Arduino.
